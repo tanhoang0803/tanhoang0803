@@ -22,10 +22,6 @@
 # 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanhoang0803&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
 
   <!-- Contributions -->
   ![500 Contributions](https://img.shields.io/badge/Contributions-500%2B-brightgreen?style=for-the-badge&logo=github)
