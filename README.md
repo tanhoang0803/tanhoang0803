@@ -4,7 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Passionate+Developer;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tanhoang0803/tanhoang0803/main/svg/tanhoang0803.svg" alt="TanQHoang Banner" width="100%" />
+</p>
 
 ## 📊 GitHub Stats
 
