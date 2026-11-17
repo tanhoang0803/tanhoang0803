@@ -8,6 +8,12 @@
 
 
 
+## 🚀 Featured Project
+
+**[vietkit](https://github.com/tanhoang0803/vietkit)** – Zero-dependency TypeScript toolkit for Vietnamese apps: number-to-words for invoices, VND formatting, slugs without diacritics, phone numbers, tax code (MST) validation and lunar calendar.
+
+`moneyToWords(1250000)` → "Một triệu hai trăm năm mươi nghìn đồng"
+
 ## 📊 GitHub Stats
 
 <p align="center">
